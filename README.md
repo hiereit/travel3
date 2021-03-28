@@ -14,7 +14,8 @@
 
 ### Development Tools
 * Android Studio 4.1
-* Firebase (server)
+* Firebase (server/DB)
+* SQLite (Internal db)
 * Language : Java
 
 ### API
